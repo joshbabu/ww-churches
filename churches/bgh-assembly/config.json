@@ -1,14 +1,14 @@
 {
   "church": {
-    "id": "bethel-assembly",
-    "name": "Bethel Assembly",
-    "nameLocal": "బేతేల్ సంఘం",
-    "community": "Bethel Christian Assembly",
+    "id": "bgh",
+    "name": "BGH",
+    "nameLocal": "BGH",
+    "community": "BGH Community",
     "tagline": "Telugu Christian Songs",
     "taglineLocal": "తెలుగు క్రైస్తవ సంకీర్తనలు",
-    "copyright": "© 2026 Bethel Christian Assembly",
-    "website": "https://bethel.wordnworship.com",
-    "email": "admin@bethelassembly.com",
+    "copyright": "© 2026 BGH Community",
+    "website": "https://bgh.wordnworship.com",
+    "email": "admin@bgh.com",
     "logo": "bethel"
   },
   "theme": {
@@ -22,13 +22,16 @@
   },
   "language": {
     "default": "te",
-    "available": ["te", "en"],
+    "available": [
+      "te",
+      "en"
+    ],
     "songLanguage": "te",
     "transliterationLanguage": "en"
   },
   "data": {
     "songsRepo": "joshbabu/ww-churches",
-    "songsPath": "churches/bethel-assembly/songs.json",
+    "songsPath": "churches/bgh/songs.json",
     "bibleRepo": "joshbabu/Bible-Database",
     "bibleStudyRepo": "joshbabu/bible-study-ai",
     "crossRefRepo": "joshbabu/bible-cross-reference-json"
