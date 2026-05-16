@@ -1,0 +1,261 @@
+[
+  {
+    "no": 1,
+    "oldNo": 1,
+    "catId": 11,
+    "te": "దేవుని స్తుతించుడి",
+    "en": "Praise the Lord",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "దేవుని స్తుతించుడి\nఆయన మహిమ కొరకు"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆయన మేలులు మరవకుడి\nప్రతి దినము కృతజ్ఞత చెల్లించుడి"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| దేవుని ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "ఆయన ప్రేమ శాశ్వతమైనది\nఆయన కృప అంతము లేనిది"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| దేవుని ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Praise the Lord\nFor His glory"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Forget not His mercies\nGive thanks every day"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Praise ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "His love is everlasting\nHis grace has no end"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Praise ||"
+      }
+    ]
+  },
+  {
+    "no": 2,
+    "oldNo": 2,
+    "catId": 11,
+    "te": "యేసు నా రక్షకుడు",
+    "en": "Jesus My Saviour",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "యేసు నా రక్షకుడు\nయేసు నా నాధుడు"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "సిలువలో మరణించి\nతిరిగి లేచినాడు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| యేసు ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "నా పాపముల కొరకు\nప్రాణమిచ్చినాడు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| యేసు ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Jesus my Saviour\nJesus my Lord"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "He died on the cross\nAnd rose again"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Jesus ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "For my sins He gave\nHis precious life"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Jesus ||"
+      }
+    ]
+  },
+  {
+    "no": 3,
+    "oldNo": 3,
+    "catId": 21,
+    "te": "పరిశుద్ధ పరిశుద్ధ",
+    "en": "Holy Holy Holy",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "పరిశుద్ధ పరిశుద్ధ పరిశుద్ధుడు\nసర్వశక్తిగల యెహోవా"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "ఆదిలో ఉన్నవాడు\nఇప్పుడు ఉన్నవాడు\nరాబోవువాడు ప్రభువు"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| పరిశుద్ధ ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Holy Holy Holy\nLord God Almighty"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "Who was and is\nAnd is to come\nThe Lord our God"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Holy ||"
+      }
+    ]
+  },
+  {
+    "no": 4,
+    "oldNo": 4,
+    "catId": 31,
+    "te": "ప్రభువు నా కాపరి",
+    "en": "The Lord Is My Shepherd",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "ప్రభువు నా కాపరి\nనాకు కొఱత కలుగదు"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "పచ్చిక బయళ్ళలో పరుండబెట్టును\nశాంతికరమైన జలముల దగ్గర నడిపించును"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| ప్రభువు ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "మరణఛాయల లోయలో నడచినను\nఆయన నాతో ఉన్నాడు భయపడను"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| ప్రభువు ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "The Lord is my shepherd\nI shall not want"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "He makes me lie down\nIn green pastures\nBeside still waters"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Shepherd ||"
+      },
+      {
+        "type": "verse",
+        "label": "2)",
+        "text": "Though I walk through\nThe valley of death\nI will fear no evil"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Shepherd ||"
+      }
+    ]
+  },
+  {
+    "no": 5,
+    "oldNo": 5,
+    "catId": 11,
+    "te": "హల్లెలూయా హల్లెలూయా",
+    "en": "Hallelujah Hallelujah",
+    "author": "",
+    "authorEn": "",
+    "lyricsTE": [
+      {
+        "type": "chorus",
+        "label": "పల్లవి",
+        "text": "హల్లెలూయా హల్లెలూయా\nప్రభువును స్తుతించుడి"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "స్వర్గమందు భూమిమీద\nఆయన మహిమ నిండియున్నది"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| హల్లె ||"
+      }
+    ],
+    "lyricsEN": [
+      {
+        "type": "chorus",
+        "label": "Chorus",
+        "text": "Hallelujah Hallelujah\nPraise the Lord"
+      },
+      {
+        "type": "verse",
+        "label": "1)",
+        "text": "In heaven and on earth\nHis glory fills all things"
+      },
+      {
+        "type": "chorusRef",
+        "text": "|| Halle ||"
+      }
+    ]
+  }
+]
